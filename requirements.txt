@@ -1,0 +1,3 @@
+# Checkpoint uses sqlite3 from Python's standard library; no pip package is needed.
+eth-keys
+eth-utils
